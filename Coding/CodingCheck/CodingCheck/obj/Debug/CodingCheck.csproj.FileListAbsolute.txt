@@ -1,0 +1,9 @@
+D:\Coding\CodingCheck\CodingCheck\bin\Debug\CodingCheck.exe.config
+D:\Coding\CodingCheck\CodingCheck\bin\Debug\CodingCheck.exe
+D:\Coding\CodingCheck\CodingCheck\bin\Debug\CodingCheck.pdb
+D:\Coding\CodingCheck\CodingCheck\obj\Debug\CodingCheck.csprojResolveAssemblyReference.cache
+D:\Coding\CodingCheck\CodingCheck\obj\Debug\CodingCheck.Form1.resources
+D:\Coding\CodingCheck\CodingCheck\obj\Debug\CodingCheck.Properties.Resources.resources
+D:\Coding\CodingCheck\CodingCheck\obj\Debug\CodingCheck.csproj.GenerateResource.Cache
+D:\Coding\CodingCheck\CodingCheck\obj\Debug\CodingCheck.exe
+D:\Coding\CodingCheck\CodingCheck\obj\Debug\CodingCheck.pdb
