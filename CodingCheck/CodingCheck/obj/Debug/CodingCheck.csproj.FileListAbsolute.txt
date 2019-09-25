@@ -1,0 +1,9 @@
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\bin\Debug\CodingCheck.exe.config
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\bin\Debug\CodingCheck.exe
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\bin\Debug\CodingCheck.pdb
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\obj\Debug\CodingCheck.csprojResolveAssemblyReference.cache
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\obj\Debug\CodingCheck.CheckForm.resources
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\obj\Debug\CodingCheck.Properties.Resources.resources
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\obj\Debug\CodingCheck.csproj.GenerateResource.Cache
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\obj\Debug\CodingCheck.exe
+G:\001Work\Doc\程序文档\4质量保证\001代码检查工具\CodingCheck\CodingCheck\obj\Debug\CodingCheck.pdb
